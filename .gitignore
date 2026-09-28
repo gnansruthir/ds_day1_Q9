@@ -1,0 +1,5 @@
+.venv/
+banking_analysis/
+banking_transactions.csv
+.vscode/
+__pycache__/
